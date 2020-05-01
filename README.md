@@ -1,2 +1,2 @@
 # Managerial-Economics
-ME concepts and applicatin
+ME concepts and applications
